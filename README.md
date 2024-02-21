@@ -1,6 +1,5 @@
 
 # Static-websiteHosting-project
-Certainly! Below, I've outlined a step-by-step guide for hosting a static website using **Amazon S3**. This will help you set up a simple website that can be accessed via a custom domain or an S3 endpoint.
 
 ## Hosting a Static Website on Amazon S3: A Step-by-Step Guide
 
